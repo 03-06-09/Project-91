@@ -1,0 +1,25 @@
+#output
+{
+background:white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+width: 700px;
+}
+body{
+    background-color: crimson;
+}
+h4{
+    background-color: aliceblue;
+    color: #AA4465;
+    font-weight: 300;
+    width: 100;
+    border-radius: 30px
+    ;
+}
+#send_button{
+width: 700px;
+height: 40px;
+}
